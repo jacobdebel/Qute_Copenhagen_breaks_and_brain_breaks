@@ -1,0 +1,247 @@
+#+startup: beamer
+#+title: Breaks and brain breaks
+#+subtitle: QuTe - Copenhagen
+#+author: Erasmus+
+#+date: 28th and 29th of march
+#+latex_header: \institute{}
+#+language: da
+#+latex_class: beamer
+#+latex_class_options: [12pt,notes]
+# #+latex_header: \setbeameroption{show notes}
+#+latex_header: \usepackage[danish]{babel}
+#+latex_header: \usepackage{mathtools}
+#+latex_header: \usetheme[progressbar=frametitle,block=fill,numbering=none]{metropolis}
+#+latex_header: \usepackage{hyperref}
+#+latex_header: \hypersetup{colorlinks, linkcolor=black, urlcolor=blue}
+#+latex_header: \titlegraphic{\begin{tikzpicture}[overlay,remember picture] \coordinate (logo) at ([xshift=-.07cm,yshift=-.07cm]current page.south west); \node [anchor=south west] at (logo) {\includegraphics[width=2cm]{img/erasmus_plus.jpg}}; \end{tikzpicture}}
+#+latex_header: \logo{\begin{tikzpicture}[overlay,remember picture] \coordinate (logo) at ([xshift=.0cm,yshift=.0cm]current page.south west); \node [anchor=south west] at (logo) {\includegraphics[width=2cm]{img/erasmus_plus.jpg}}; \end{tikzpicture}}
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %10BEAMER_act(Act) %4BEAMER_col(Col) %8BEAMER_opt(Opt)
+#+options: H:1 ^:{} tags:nil toc:nil todo:nil num:nil timestamp:nil
+
+* 09:00                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{09:00 - Let's begin!}
+#+attr_latex: :width 7cm
+[[./img/lets_begin.jpg]]
+
+* 09:45                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{09:45 - Break time!}
+
+#+attr_latex: :width 5cm
+[[./img/break_dancing.png]]
+
+* 10:00                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{10:00 - Break is over}
+
+#+attr_latex: :width 6cm
+[[./img/Full-Speed-Ahead.jpg]]
+
+
+* Brain break 1                                                 :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{Finger control!}
+
+#+attr_latex: :width 8cm
+[[./img/finger_control.jpeg]]
+
+** Note for the exercise                                            :B_note:
+:PROPERTIES:
+:BEAMER_env: note
+:END:
+- Fold fingers
+- First: One student *points* and *touches* the finger to move.
+- Next: One student *points* but does not touch the finger to move.
+- Last: One student *tells* which finger to move.
+
+* Lunch break                                                   :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{11:30 - Lunch break!}
+
+#+attr_latex: :width 7cm
+[[./img/lunch_break.jpg]]
+
+* 12:00                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{12:00 - On your mark, get set, GO!}
+
+#+attr_latex: :width 7cm
+[[./img/on_your_mark_get_set_go.jpg]]
+
+* Brain break 4                                                 :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{Shoot the rabbit!}
+
+#+attr_latex: :width 8cm
+[[./img/shoot_the_rabbit.jpg]]
+
+** Note for the exercise                                            :B_note:
+:PROPERTIES:
+:BEAMER_env: note
+:END:
+*** Left col                                                        :BMCOL:
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+- Let the students practice the two signs with the hands.
+- Say it out loud: "Shoot, shoot, shoot the rabbit".
+- When saying *rabbit* change the signs on the hands.
+- Speed up the exercise.
+*** right col                                                       :BMCOL:
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+#+attr_latex: :width \linewidth
+[[./img/shoot_the_rabbit_note.png]]
+
+* 13:30                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{13:30 - Break time!}
+
+#+attr_latex: :width 8cm
+[[./img/time_for_a_break.jpg]]
+
+* 13:40                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+
+\section{13:40 - Let's start again}
+#+attr_latex: :width 7cm
+[[./img/start_again.png]]
+
+* 14:25                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+
+\section{14:25 - School's out - Next up bowling}
+
+#+attr_latex: :width 5.5cm
+[[./img/bowling.jpeg]]
+
+* 09:00                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{09:00 - Welcome back to the future!}
+
+#+attr_latex: :width 8cm
+[[./img/back_to_the_future.jpeg]]
+* 09:45                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{09:45 - Break time!}
+
+#+attr_latex: :width 6cm
+[[./img/kintsugi_broken.png]]
+
+* 10:00                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{10:00 - Break is over!}
+
+#+attr_latex: :width 6cm
+[[./img/kintsugi_repaired.png]]
+
+* Brain break 3                                                 :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{The counting curse}
+
+#+attr_latex: :width 5cm
+[[./img/counting_curse.jpeg]]
+
+** Note for the exercise                                            :B_note:
+:PROPERTIES:
+:BEAMER_env: note
+:END:
+\footnotesize
+- Split the class in two groups.
+- Each group gathers in a circle facing inwards.
+- Each group counts to 21 but only with one student may speak at a time.
+- If two students speak at the same time the group must start over.
+- If three or more students speak at the same time every student in the group must do 1-5 *burpees*.
+- Make the groups do the exercise with eyes closed or similar challenges.
+* Lunch break                                                   :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{11:30 - Lunch break}
+
+#+attr_latex: :width 8cm
+[[./img/superman_lunch.jpg]]
+
+* 12:00                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{12:00 - Let's start again.}
+
+#+attr_latex: :width 7cm
+[[./img/after_lunch.jpg]]
+
+* Brain break 2                                                 :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{Hold the paper}
+
+#+attr_latex: :width 8cm
+[[./img/hold_the_paper.png]]
+
+** Note on the exercise                                             :B_note:
+:PROPERTIES:
+:BEAMER_env: note
+:END:
+- The students should split up in groups of two.
+- Each group should hold a piece of a4 paper between their hands. One hand from each group member.
+- The exercise is now for the group to move the piece of paper down and in between each of the members legs withou letting go of the paper.
+- Variation: Form bigger groups which should in circles. Let the paper (or more papers) move between the legs around in the circle.
+
+* 13:30                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+\section{13:30 - Break time!}
+#+attr_latex: :width 8cm
+[[./img/take_a_break.jpg]]
+
+* 13:40                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+
+\section{13:40 - Let's start again.}
+#+attr_latex: :width 7cm
+[[./img/lets_start_again.jpg]]
+
+* 14:25                                                         :B_fullframe:
+:PROPERTIES:
+:BEAMER_env: fullframe
+:END:
+
+\section{14:25 - School's out - See you tomorrow}
+
+#+attr_latex: :width 8cm
+[[./img/schools_out.jpg]]
